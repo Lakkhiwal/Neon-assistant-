@@ -1,4 +1,4 @@
-# 🔊 Neon  – Python Voice Assistant
+# 🔊 Neon – Python Voice Assistant
 
 **Neon** is a simple voice-controlled personal assistant built using Python. It can greet the user, fetch information from Wikipedia, open websites like YouTube and Google, play music from your local drive, and tell the current time — all through voice commands.
 
@@ -20,5 +20,5 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/neon.git
+   git clone https://github.com/lakkhiwal/neon.git
    cd neon
