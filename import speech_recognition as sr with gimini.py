@@ -28,7 +28,7 @@ def wishme():
         speak("Good afternoon")
     else:
         speak("Good evening")
-    speak("I am Neon Sir. How can I help you?")
+    speak("I am Neon. How can I help you?")
 
 # Function to take voice input
 def takecommand():
